@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={hunter} alt="photo" />
+        <img src={hunter} alt="green" />
         <p>
           <strong>Hunter X Hunter</strong>
           <br></br> <br></br>

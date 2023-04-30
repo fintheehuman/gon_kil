@@ -1,14 +1,16 @@
-import logo from './logo.svg';
+import hunter from './gon_kil.jpeg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={hunter} alt="photo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+          <strong>Hunter X Hunter</strong>
+          <br></br> <br></br>
+          Gon and Killua
+        </p> <br /> <br />
         <a
           className="App-link"
           href="https://reactjs.org"
